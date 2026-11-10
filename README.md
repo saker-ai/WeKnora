@@ -1,3 +1,5 @@
+> **Repository scope:** This is the Saker AI fork of [Tencent/WeKnora](https://github.com/Tencent/WeKnora). The upstream product documentation and attribution below are retained. The checked-in [VERSION](VERSION), [CHANGELOG](CHANGELOG.md), source and deployment files describe this checkout; upstream badges and hosted-service links do not certify a Saker AI deployment. Enterprise-specific Corpus development is maintained separately in saker-ai/corpus.
+
 <p align="center">
   <a href="https://weknora.weixin.qq.com">
     <picture>
